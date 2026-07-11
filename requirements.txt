@@ -1,0 +1,20 @@
+# LLM Framework
+langgraph
+langchain
+langchain-openai
+
+#GROQ
+groq
+
+# LLM Framework for GROQ
+langchain-groq
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+
+# LLM Framework for Google GenAI
+langchain-google-genai
